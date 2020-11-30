@@ -1,0 +1,17 @@
+body {
+    background: url('fold.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px 150px 100px;
+  width: 600px;
+  margin: auto;
+  border-radius: 25px;
+  text-align: center;
+}
+
+p, h1, h2 {
+    font-family: Arial;
+}
